@@ -80,7 +80,7 @@ Note: Change the run-time to gpu for faster training of the model
 1. http://cs231n.stanford.edu/reports/2017/pdfs/626.pdf
 2.https://github.com/SullyChen/Autopilot-TensorFlow
 
-3. This project was inspired from https://github.com/abhinavsagar/self-driving-car
+3. https://github.com/abhinavsagar/self-driving-car
 
 4. https://arxiv.org/pdf/1604.07316.pdf
 
