@@ -75,6 +75,8 @@ Note: Change the run-time to gpu for faster training of the model
 
 # References:
 
+
+
 1. http://cs231n.stanford.edu/reports/2017/pdfs/626.pdf
 
 2.https://github.com/SullyChen/Autopilot-TensorFlow
