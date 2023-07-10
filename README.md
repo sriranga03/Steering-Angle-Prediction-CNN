@@ -1,7 +1,3 @@
-# 641_project2
-
-Author: Sri Ranga Sai Krishna Tummala
-
 
 # Self-Driving Car Steering Angle Prediction Based on Image Recognition
 
